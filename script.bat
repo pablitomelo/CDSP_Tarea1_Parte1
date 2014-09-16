@@ -1,0 +1,1 @@
+g++ HuffmanTree.cpp HuffmanCode.cpp Main.cpp -o HuffmanCompressor
